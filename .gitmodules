@@ -1,0 +1,18 @@
+[submodule "stable-diffusion-webui"]
+	path = stable-diffusion-webui
+	url = https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
+[submodule "repositories/stable-diffusion"]
+	path = repositories/stable-diffusion
+	url = https://github.com/CompVis/stable-diffusion.git
+[submodule "repositories/taming-transformers"]
+	path = repositories/taming-transformers
+	url = https://github.com/CompVis/taming-transformers.git
+[submodule "repositories/CodeFormer"]
+	path = repositories/CodeFormer
+	url = https://github.com/sczhou/CodeFormer.git
+[submodule "repositories/BLIP"]
+	path = repositories/BLIP
+	url = https://github.com/salesforce/BLIP.git
+[submodule "repositories/k-diffusion"]
+	path = repositories/k-diffusion
+	url = https://github.com/Birch-san/k-diffusion

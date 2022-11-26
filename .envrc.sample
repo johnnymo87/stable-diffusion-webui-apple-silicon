@@ -1,0 +1,2 @@
+export HUGGING_FACE_ACCESS_TOKEN=
+export MODEL_CHECKPOINT_DOWNLOAD_URL=https://huggingface.co/runwayml/stable-diffusion-inpainting/resolve/main/sd-v1-5-inpainting.ckpt
