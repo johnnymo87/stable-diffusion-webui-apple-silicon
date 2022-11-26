@@ -29,3 +29,5 @@ If you your computer has an Apple silicon chip (M1, M2, etc.), you need to do sp
 * [Stable diffusion](https://github.com/CompVis/stable-diffusion).
 * [AUTOMATIC1111's stable diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui/).
 * [dylancl's scripts for running both on Apple silicon](https://github.com/dylancl/stable-diffusion-webui-mps).
+* [ctawong's efforts to merge Apple silicon automation efforts into AUTOMATIC1111's repository](https://github.com/AUTOMATIC1111/stable-diffusion-webui/pull/4990).
+* [brkirch's suggestions for improvement and heads up about future changes](https://github.com/AUTOMATIC1111/stable-diffusion-webui/pull/4990#issuecomment-1326042975).
